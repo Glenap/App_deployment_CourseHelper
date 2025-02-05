@@ -37,7 +37,7 @@ Start the server:
 text
 npm start
 Usage
-After starting the server, the application will be available at http://localhost:PORT, where PORT is the port number specified in your configuration.
+After starting the server, the application will be available at http://localhost:3011, where PORT is the port number specified in your configuration.
 API Routes
 Authentication routes are defined in authRoutes.js
 Other routes can be found in the routes directory
